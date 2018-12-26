@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-26_1407",
+    "name": "organic3",
     "currentPage": "index.html",
     "theme": {
       "name": "organicamp",
@@ -33,6 +33,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
     "uniqCompNum": 12,
     "versionPublish": "4.8.8"
   },
